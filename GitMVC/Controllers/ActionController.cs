@@ -8,5 +8,11 @@ namespace GitMVC.Controllers
         {
             return View();
         }
+
+        public IActionResult action()
+        {
+            string a = "mojiuhy";
+            return View();
+        }
     }
 }
