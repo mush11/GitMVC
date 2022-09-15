@@ -21,6 +21,7 @@ namespace GitMVC.Controllers
 
         public IActionResult Privacy()
         {
+            int a = 12;
             return View();
         }
 
