@@ -7,6 +7,9 @@ namespace GitMVC.Controllers
         public IActionResult Index()
         {
             int cb = 23;
+
+            string m = "mo";
+            bool b = true;
             return View();
         }
 
