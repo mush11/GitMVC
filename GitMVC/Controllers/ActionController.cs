@@ -12,6 +12,7 @@ namespace GitMVC.Controllers
         public IActionResult action()
         {
             string a = "mojiuhy";
+            string m = "lop";
             return View();
         }
     }
