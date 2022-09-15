@@ -15,6 +15,7 @@ namespace GitMVC.Controllers
 
         public IActionResult Index()
         {
+            int a = 0;
             return View();
         }
 
